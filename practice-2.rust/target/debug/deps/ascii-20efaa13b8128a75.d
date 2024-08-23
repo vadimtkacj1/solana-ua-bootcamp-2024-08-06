@@ -1,0 +1,11 @@
+/home/vadim/solana-ua-bootcamp-2024-08-06/practice-2.rust/target/debug/deps/libascii-20efaa13b8128a75.rmeta: /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/lib.rs /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_char.rs /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_str.rs /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_string.rs /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/free_functions.rs
+
+/home/vadim/solana-ua-bootcamp-2024-08-06/practice-2.rust/target/debug/deps/libascii-20efaa13b8128a75.rlib: /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/lib.rs /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_char.rs /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_str.rs /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_string.rs /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/free_functions.rs
+
+/home/vadim/solana-ua-bootcamp-2024-08-06/practice-2.rust/target/debug/deps/ascii-20efaa13b8128a75.d: /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/lib.rs /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_char.rs /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_str.rs /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_string.rs /home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/free_functions.rs
+
+/home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/lib.rs:
+/home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_char.rs:
+/home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_str.rs:
+/home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_string.rs:
+/home/vadim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/free_functions.rs:
